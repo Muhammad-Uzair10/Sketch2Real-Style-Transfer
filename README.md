@@ -8,10 +8,10 @@ The project also features a Gradio interface for easy interaction, allowing user
 
 ## Features
 * **Style Transfer:** Applies the style of one image to the content of another.
-* [cite_start]**Sketch Preprocessing:** Enhances hand-drawn features using edge detection (Canny) to prepare style images.
-* [cite_start]**Postprocessing:** Adds noise to the stylized output to simulate hand-drawn texture.
-* [cite_start]**Gradio Interface:** Provides a user-friendly web interface for image upload and result display.
-* [cite_start]**Style Mixing (Advanced Version):** Allows blending two different style images based on a user-defined percentage.
+* [cite_start]**Sketch Preprocessing:** Enhances hand-drawn features using edge detection (Canny) to prepare style images[cite: 8, 9, 10, 11, 15, 66, 67, 68, 69, 70, 71, 72, 73, 129, 130, 131, 132, 133].
+* [cite_start]**Postprocessing:** Adds noise to the stylized output to simulate hand-drawn texture[cite: 30, 31, 32, 79, 80, 81, 141, 142, 143].
+* [cite_start]**Gradio Interface:** Provides a user-friendly web interface for image upload and result display[cite: 35, 36, 37, 38, 39, 40, 41, 42, 101, 102, 103, 104, 105, 106, 107, 108, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179].
+* [cite_start]**Style Mixing (Advanced Version):** Allows blending two different style images based on a user-defined percentage[cite: 148, 149, 160].
 
 ## Technologies Used
 * Python
